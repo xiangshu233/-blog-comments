@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://xiangshu233.com"
+    "https://xiangshu233.com",
+    "http://localhost:4000"
   ]
 }
